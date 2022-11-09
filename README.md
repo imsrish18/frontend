@@ -1,3 +1,3 @@
-npm i '\n'
-npm run build '\n'
+npm i <br />
+npm run build <br />
 npm start
